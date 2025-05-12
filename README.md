@@ -12,7 +12,7 @@ This is a Discord bot that monitors course enrollment at the University of Water
 
 ## 🚀 How It Works
 
-1. Scrapes course enrollment data from the UWaterloo course offerings site using `requests` and `BeautifulSoup`.
+1. Scrapes course enrollment data from the UWaterloo course offerings site using `BeautifulSoup`.
 2. Parses enrollment tables for each course.
 3. Sends alerts to my Discord channel and pings me when a seat becomes available.
 4. Posts regular updates even if seats are full.
